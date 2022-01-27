@@ -1,5 +1,5 @@
-# portifolio
-Portifólio - exercício Trybe
+# portfólio
+Portfólio - exercício Trybe
 
 ## Requisitos:
 
